@@ -1,0 +1,2 @@
+# Stanford-CS224W-Machine-Learning-with-Graphs-2021
+Stanford CS224W Machine Learning with Graphs 2021
